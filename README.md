@@ -1,2 +1,2 @@
-# COMp-576
+# COMP-576
 A Project Repository for COMP-576 at Rice University
